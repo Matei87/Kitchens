@@ -355,7 +355,7 @@ nav .navigation button.my-order {
 
 /* FOOTER */
 footer {
-    background: linear-gradient(rgba(0, 0, 0, .9) 0, rgba(0 , 0, 0, .9) 100%), url('./image/footer.png') no-repeat center/cover;
+    background: linear-gradient(rgba(0, 0, 0, .9) 0, rgba(0 , 0, 0, .9) 100%), url('image/footer.png') no-repeat center/cover;
     height: 495px; width: 100%;
     display: flex;
     justify-items: center; align-items: center;
